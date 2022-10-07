@@ -35,3 +35,8 @@ by Claudio Agosti on Fri, Sept 23rd @ 12:00 (Cyber Pompieri)
 by Giulia Corona and Alessandro Polidoro on Sat, Sept 24th @ 18:00 (Perimetro)
 
 [Slides](https://pornhub.tracking.exposed/slides/romhack/#slide=1)
+
+## Defense Lab
+by Rev3rse Security (Andrea TheMiddle Menin) on Fri, Sept 23rd @ 15:00 (Cyber Pompieri)
+
+[Slides](resources/RHC22-slide-rev3rse-labs.pdf)
