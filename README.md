@@ -1,5 +1,5 @@
-# rhc22-resources
-Here you can find resources (e.g. slides) of [RomHack Camp workshops/labs/talks](https://romhack.camp/camp-schedule/)
+# RomHack Camp - Talks, Labs, Workshops
+Here you can find resources (e.g. slides) of [RomHack Camp talks/labs/workshops](https://romhack.camp/camp-schedule/)
 
 ## Telegram Osint
 by Giacomo Giallombardo on Sat, Sept 24th @ 22:30 (Hyper SOC)
