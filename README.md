@@ -20,3 +20,8 @@ by Reando “H4t4way” Veshi on Fri, Sept 23rd @ 21:00 (Cyber Pompieri)
 by Alessandro Farina on Fri, Sept 23rd @ 17:00 (Hyper SOC)
 
 [Slides](resources/Open_Source_Forensics_RomHack_2022.pdf)
+
+## One Small step for man, one giant step for researchers
+by Gabriel Cirlig on Fri, Sept 23rd @ 15:00 (Aspira Malware)
+
+[Slides](resources/RHC22_android_workshop.pptx)
