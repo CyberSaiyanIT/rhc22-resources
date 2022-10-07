@@ -25,3 +25,13 @@ by Alessandro Farina on Fri, Sept 23rd @ 17:00 (Hyper SOC)
 by Gabriel Cirlig on Fri, Sept 23rd @ 15:00 (Aspira Malware)
 
 [Slides](resources/RHC22_android_workshop.pptx)
+
+## Personalisation algorithms, their influence and how to analyse them from the outside
+by Claudio Agosti on Fri, Sept 23rd @ 12:00 (Cyber Pompieri)
+
+[Slides](https://docs.google.com/presentation/d/1lbO_Q84x4jV5vz05Rx4XjzqkjUxoV2no1jsHze6aStk/edit?usp=sharing)
+
+## Unveiling how porn platforms abuse personal data with Tracking Exposed and GDPR
+by Giulia Corona and Alessandro Polidoro on Sat, Sept 24th @ 18:00 (Perimetro)
+
+[Slides](https://pornhub.tracking.exposed/slides/romhack/#slide=1)
