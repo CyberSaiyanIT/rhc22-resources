@@ -40,3 +40,13 @@ by Giulia Corona and Alessandro Polidoro on Sat, Sept 24th @ 18:00 (Perimetro)
 by Rev3rse Security (Andrea TheMiddle Menin) on Fri, Sept 23rd @ 15:00 (Cyber Pompieri)
 
 [Slides](resources/RHC22-slide-rev3rse-labs.pdf)
+
+## Introduction and Web App Challenge
+by OWASP Italian Chapter on Fri, Sept 23rd @ 15:00 (Hyper SOC)
+
+[Slides](resources/RHC22-OWASP_Introduction_and_Web_App_Challenge.pdf)
+
+## ZAP
+by OWASP Italian Chapter on Sat, Sept 24th @ 15:00 (Perimetro)
+
+[Slides](resources/RHC22-ZAP-OWASP_Italian_Chapter.pdf)
