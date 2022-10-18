@@ -50,3 +50,10 @@ by OWASP Italian Chapter on Fri, Sept 23rd @ 15:00 (Hyper SOC)
 by OWASP Italian Chapter on Sat, Sept 24th @ 15:00 (Perimetro)
 
 [Slides](resources/RHC22-ZAP-OWASP_Italian_Chapter.pdf)
+
+## Community Networks & Battlemesh
+by Wireless BattleMesh on Fri, Sept 23rd @ 17:30 (Perimetro)
+
+[Slides](resources/RHC22-WirelessCommunityNetworks.pdf)
+[Slides](resources/RHC22-WBMv14_chip_wars_2022.pdf)
+[Slides](resources/RHC22-battlemeshv14.pdf)
