@@ -59,3 +59,8 @@ by Wireless BattleMesh on Fri, Sept 23rd @ 17:30 (Perimetro)
 [Slides - Chip Wars](resources/RHC22-WBMv14_chip_wars_2022.pdf)
 
 [Slides - Battlemesh v14](resources/RHC22-battlemeshv14.pdf)
+
+## Federazione Hacker. Prossima frontiera?
+on Fri, Sept 23rd @ 18:30 (Hyper SOC)
+
+[Slides](https://docs.google.com/presentation/d/1rVlw3hIinKkYtpD4u77OwIo66D_Aq2XN8pZt3gM9xMI/edit?usp=sharing)
