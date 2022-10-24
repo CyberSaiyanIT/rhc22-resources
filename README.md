@@ -64,3 +64,8 @@ by Wireless BattleMesh on Fri, Sept 23rd @ 17:30 (Perimetro)
 on Fri, Sept 23rd @ 18:30 (Hyper SOC)
 
 [Slides](https://docs.google.com/presentation/d/1rVlw3hIinKkYtpD4u77OwIo66D_Aq2XN8pZt3gM9xMI/edit?usp=sharing)
+
+## Into the dragon's lair: unleash your own beacon
+by Alessio Dalla Piazza (Berghem-in-the-Middle) on Fri, Sept 23rd @ 11:00 (Cyber Pompieri)
+
+[Slides](https://www.hacklabg.net/bitm/wp-content/uploads/2022/10/DallaPiazza.IntoTheDragonsLair.pdf)
