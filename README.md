@@ -69,3 +69,8 @@ on Fri, Sept 23rd @ 18:30 (Hyper SOC)
 by Alessio Dalla Piazza (Berghem-in-the-Middle) on Fri, Sept 23rd @ 11:00 (Cyber Pompieri)
 
 [Slides](https://www.hacklabg.net/bitm/wp-content/uploads/2022/10/DallaPiazza.IntoTheDragonsLair.pdf)
+
+## Unә, Nessunә, Centomilә әID Quante identità (elettroniche) ho addosso
+by Ghiro (IHE) on Sat, Sept 24th @ 23:30 (Cyber Pompieri)
+
+[Slides](resources/RHC22-Unә_Nessunә_Centomilә.pdf)
